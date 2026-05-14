@@ -1,0 +1,71 @@
+# Unity
+/UnityProject/Library/
+/UnityProject/Temp/
+/UnityProject/Obj/
+/UnityProject/Build/
+/UnityProject/Builds/
+/UnityProject/Logs/
+/UnityProject/UserSettings/
+/UnityProject/MemoryCaptures/
+/UnityProject/.DS_Store
+/UnityProject/ExportedObj/
+/UnityProject/obj/
+/UnityProject/.vs/
+/UnityProject/.vsconfig
+
+# Unity meta files for non-tracked assets
+# (comment this out if you want to track meta files)
+# *.meta
+
+# Visual Studio / Rider
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.rider/
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Builds
+Builds/
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Logs
+*.log
+
+# Crash reports
+sysinfo.txt
+
+# Node / npm (if any tooling)
+node_modules/
+
+# Python (if any scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Dotenv
+.env
+.env.local
