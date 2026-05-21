@@ -15,7 +15,21 @@ TBD
 
 ## Personajes principales
 
-TBD
+### Protagonista
+**Asly** — Niña internada en el manicomio. La historia se cuenta desde su perspectiva. Su cordura es la mecánica central del juego; el mundo que percibe cambia según su estado mental.  
+→ Ver [Protagonist.md](../Narrative/Characters/Protagonist.md)
+
+### NPCs — Ala de niños
+
+| Personaje | Condición                     | Vínculo con Asly                                          |
+| --------- | ----------------------------- | --------------------------------------------------------- |
+| **Nirdos**  | PTSD severo, mutismo          | Relación silenciosa y lenta. Protección mutua implícita.  |
+| **Jhona**   | Identidad de género negada    | Vínculo de validación. Asly la trata como princesa.       |
+| **Johan**   | Trastorno disociativo         | Confianza a través del respeto a sus muñecas.             |
+| **Gris**    | Síndrome de Tourette          | Una de las primeras en acercarse. Imaginación compartida. |
+| **Helen**   | Ansiedad severa / paranoia    | Vínculo frágil. Requiere paciencia. Clave en mundo Creepy.|
+
+→ Ver [NPC_List.md](../Narrative/Characters/NPC_List.md)
 
 ## Estructura narrativa
 
