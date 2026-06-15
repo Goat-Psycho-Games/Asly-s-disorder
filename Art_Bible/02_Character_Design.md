@@ -2,27 +2,50 @@
 
 ## Protagonista
 
-TBD
+Asly Heyde
 
 ### Características visuales
 - Silueta reconocible y simple.
-- Diseño que comunique su estado emocional.
+- Colores vivos en contraste con los tonos fríos.
 - Animaciones que reflejen su personalidad.
 
 ### Variaciones
-- Aspecto normal.
-- Aspecto con baja cordura (cambios sutiles).
-- TBD
+- Ropa diaria
+- Uniforme del manicomio
+- Bata de hospital
+- Camisa de fuerza
+- Variantes del mundo locura de cada uno
 
 ## NPCs
 
-TBD
+Nombres Enfermeras:
+- Dorothy
+- Deborah
+- Elga
+
+Nombres Doctores:
+- Shaun
+- Klaus (Elijah)
+- Kovalsky
+
+Nombres Adolescentes:
+- Alicé
+- Raphael
+- René
+- Edgar (solo en el tutorial)
+
+Nombres Niños:
+- Jonna
+- Gris ("Greis)
+- Helene
+- Nils
+- Johann
 
 ### Reglas de diseño
-- Cada NPC debe tener un diseño que comunique su rol.
-- Los NPCs del mundo creepy no son solo versiones oscuras. Son deformaciones simbólicas.
+- Cada NPC debe tener un diseño que hable de su personalidad y/o historia.
+- Los NPCs del mundo creepy no son solo versiones oscuras. Son deformaciones simbólicas de sus enfermedades y traumas.
 
-## Plantilla de personaje
+## Plantilla de personaje (POR HACER PERSONAJES)
 
 ```md
 ## [Nombre del personaje]
