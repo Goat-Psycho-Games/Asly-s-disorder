@@ -2,29 +2,30 @@
 
 ## Visión general
 
-El juego tiene una estética de dibujo a mano que contrasta deliberadamente entre el mundo normal (cálido, gastado, humano) y el mundo creepy (orgánico, perturbador, simbólico).
+El juego consta de dibujo 2D que contrasta entre dos estéticas:
+- Mundo real: colores naturales y desaturados, formas realistas, personajes "normales".
+- Mundo locura: monocromático/escala de grises, distorsión, filtros antiguos (cartoon), personajes deformados y/o monstruos.
 
 ## Estilo visual
 
 - Técnica: 2D dibujado a mano.
 - Perspectiva: Scroll lateral.
-- Líneas: Irregulares, expresivas. No perfectas.
-- Textura: Papel, acuarela, lápiz. Orgánico.
+- Líneas: Irregulares, expresivas, pinceladas. No perfectas.
+- Textura: Papel, acuarela, pincel. Orgánico.
 - Animación: Fluida pero no hiperrealista. 8-12 FPS en idle, más en acción.
 
 ## Influencias artísticas
 
-- Fran Bow (ilustración expresionista)
-- Sally Face (acuarela oscura)
-- Yuppie Psycho (2D limpio con horror sutil)
-- Detention (peso visual oriental adaptado)
+- Fran Bow (fantasía oscura)
+- Sally Face (desdibujado y orgánico)
+
 
 ## Reglas generales
 
-- El mundo normal no debe ser alegre. Debe ser agotado, triste, cotidiano.
+- El mundo normal no debe ser alegre. Debe ser agotador, triste, cotidiano.
 - El mundo creepy no debe ser solo "más oscuro". Debe ser una deformación psicológica del normal.
-- El protagonista tiene un diseño simple pero reconocible.
-- Los monstruos no deben ser genéricos. Deben tener relación con la historia.
+- La protagonista debe destacar ligeramente del rsto con sus colores.
+- Los monstruos no deben ser genéricos. Deben tener relación con la historia y la percepción de la prota.
 
 ## Ver también
 
