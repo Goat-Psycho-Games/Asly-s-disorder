@@ -6,8 +6,8 @@ TBD
 
 ### Características
 - Colores apagados, desaturados.
-- Tonos cálidos envejecidos (amarillos, marrones, grises sucios).
-- Luces naturales o fluorescentes frías.
+- Tonos cálidos envejecidos al inicio (amarillos, marrones, grises sucios), apagados y fríos después.
+- Luces naturales o artificiales fríos.
 
 ## Mundo creepy
 
@@ -15,8 +15,8 @@ TBD
 
 ### Características
 - Paleta radicalmente diferente, no solo "más oscura".
-- Tonos imposibles (verdes enfermizos, rojos orgánicos, negros profundos).
-- Luces parpadeantes o inexistentes.
+- Monocromático/escala de grises.
+- Luces parpadeantes o estática.
 
 ## UI
 
