@@ -11,9 +11,9 @@ El documento no pretende cerrar decisiones que todavia no estan disponibles. Cua
 | Area | Decision |
 | --- | --- |
 | Motor | Unity |
-| Version Unity | Pendiente de definir |
+| Version Unity | 6000.3.15f1 |
 | Lenguaje | C# |
-| Render pipeline | Universal Render Pipeline (URP) |
+| Render pipeline | Universal Render Pipeline (URP) 17.3.0 |
 | Plataforma primaria | PC Windows |
 | Plataformas secundarias | Pendiente de definir |
 
@@ -26,7 +26,7 @@ Dependencias pendientes:
 
 - Sistema final de audio: Unity AudioSource/Audio Mixer o middleware.
 - Librerias externas adicionales.
-- Version exacta de Unity.
+- Version exacta de Unity fijada en 6000.3.15f1.
 
 ## 3. Principios de arquitectura
 
@@ -601,7 +601,6 @@ El primer prototipo tecnico debe implementar:
 
 ## 15. Pendientes tecnicos
 
-- Definir version exacta de Unity.
 - Confirmar plataforma secundaria o descartar para M1.
 - Decidir sistema final de audio.
 - Documentar Inventory System.
