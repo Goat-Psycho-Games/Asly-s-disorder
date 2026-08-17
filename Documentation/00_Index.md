@@ -34,6 +34,8 @@
 
 ## Producción
 
+- [Alcance Demo / Capítulo 1 / Vertical Slice](../Production/Demo_Scope.md)
+- [Estado del proyecto](../Production/00_Project_Status.md)
 - [Roadmap](10_Production_Roadmap.md)
 - [Plan de testing](11_Testing_Plan.md)
 - [Changelog](12_Changelog.md)

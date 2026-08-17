@@ -2,9 +2,15 @@
 
 ## Estado actual
 
-**Fase:** Preproducción  
-**Fecha de inicio:** 20/05/2026  
-**Última actualización:** 20/05/2026  
+**Fase:** Preproducción (Sprint 1 — demo de la estación)
+**Fecha de inicio:** 20/05/2026
+**Última actualización:** 18/08/2026
+
+El trabajo activo del Sprint 1 prepara la **demo de la estación**. El Capítulo 1 / manicomio no se elimina; queda aplazado. La Vertical Slice es un hito posterior, no esta demo.
+
+Alcance canónico: [Demo_Scope.md](Demo_Scope.md).
+
+El detalle de milestones, riesgos y filas de progreso por área se actualiza en la issue [#6](https://github.com/Goat-Psycho-Games/Asly-s-disorder/issues/6).
 
 ## Resumen del progreso
 
