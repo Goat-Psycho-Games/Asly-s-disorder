@@ -178,7 +178,7 @@ Iago revisa **obligatoriamente** cuando el cambio afecta:
 
 - Arquitectura técnica (sistemas compartidos, managers, bootstrapping).
 - Código que afecta sistemas transversales (SanitySystem, WorldSwitching, EventSystem, SaveSystem, DialogueSystem, PuzzleSystem, PlayerController).
-- Configuración del repositorio (`.gitignore`, `.gitattributes`, `AGENTS.md`, workflows).
+- Configuración del repositorio (`.gitignore`, `.gitattributes`, workflows y otras configs técnicas compartidas).
 - ProjectSettings / Packages / URP / Input System.
 - Integración entre disciplinas (arte → Unity, narrativa → implementación, audio → integración).
 - Cambios de scope/producción (roadmap, hitos, Demo_Scope).
@@ -244,11 +244,11 @@ AAAA-MM-DD o "sin fecha crítica"
 | Propósito        | Canal                          |
 |------------------|--------------------------------|
 | Registro persistente, decisión final | **GitHub Issue** (la issue de la tarea) |
-| Aviso rápido     | Discord / canal operativo del equipo |
+| Aviso rápido     | Discord del equipo, en el canal operativo utilizado para coordinar la tarea |
 
-**Principio:** Discord = aviso. GitHub = registro persistente y decisión final.
+**Principio:** Discord = aviso inmediato. GitHub = registro persistente, estado y decisión final.
 
-> **TBD: canal operativo de bloqueos** — confirmar nombre del canal Discord con el equipo.
+**Nombre de canal canónico:** TBD / pendiente de acordar.
 
 ---
 
