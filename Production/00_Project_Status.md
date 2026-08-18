@@ -2,11 +2,11 @@
 
 ## Estado actual
 
-**Fase:** Preproducción (Sprint 1 — demo de la estación)
+**Fase:** Preproducción (Sprint 1 — demo: estación + recorte de manicomio)
 **Fecha de inicio:** 20/05/2026
 **Última actualización:** 18/08/2026
 
-El trabajo activo del Sprint 1 prepara la **demo de la estación**. El Capítulo 1 / manicomio no se elimina; queda aplazado. La Vertical Slice es un hito posterior, no esta demo.
+El trabajo activo del Sprint 1 prepara la **demo**: tutorial en la estación más un recorte jugable limitado del manicomio. El Capítulo 1 completo no se elimina; se expande después. La Vertical Slice es un hito posterior (contenido concreto TBD).
 
 Alcance canónico: [Demo_Scope.md](Demo_Scope.md).
 
