@@ -34,9 +34,12 @@
 
 ## Producción
 
+- [Alcance Demo / Capítulo 1 / Vertical Slice](../Production/Demo_Scope.md)
+- [Estado del proyecto](../Production/00_Project_Status.md)
 - [Roadmap](10_Production_Roadmap.md)
 - [Plan de testing](11_Testing_Plan.md)
 - [Changelog](12_Changelog.md)
 - [Roles y responsabilidades](Production/ROLES_Y_RESPONSABILIDADES.md)
 - [Tareas pendientes](../Production/02_Task_Backlog.md)
 - [Registro de decisiones](../Production/05_Decision_Log.md)
+- [Flujo de desarrollo](../Production/Development_Workflow.md)

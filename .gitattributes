@@ -1,0 +1,53 @@
+# Git LFS — reglas de assets binarios
+
+# Este archivo es la fuente de verdad. No editar `git lfs track` sin revisar el PR.
+# Los sprites PNG/JPG de runtime en Unity NO van a LFS (suelen ser pequeños).
+# Las imágenes de referencia/moodboard fuera de Unity sí.
+
+# --- Fuentes de arte / DCC ---
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.psb filter=lfs diff=lfs merge=lfs -text
+*.kra filter=lfs diff=lfs merge=lfs -text
+*.clip filter=lfs diff=lfs merge=lfs -text
+*.aseprite filter=lfs diff=lfs merge=lfs -text
+*.ase filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+
+# --- Audio ---
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.flac filter=lfs diff=lfs merge=lfs -text
+*.aiff filter=lfs diff=lfs merge=lfs -text
+*.aif filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+
+# --- Vídeo ---
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+
+# --- Modelos binarios ---
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+
+# --- Imagen fuente / alta densidad ---
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+
+# --- Fuentes ---
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.otf filter=lfs diff=lfs merge=lfs -text
+
+# --- Referencias / moodboard / marketing (PNG/JPG grandes previstos) ---
+/References/**/*.png filter=lfs diff=lfs merge=lfs -text
+/References/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+/References/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+/Art_Bible/References/**/*.png filter=lfs diff=lfs merge=lfs -text
+/Art_Bible/References/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+/Art_Bible/References/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+/Marketing/**/*.png filter=lfs diff=lfs merge=lfs -text
+/Marketing/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+/Marketing/**/*.jpeg filter=lfs diff=lfs merge=lfs -text

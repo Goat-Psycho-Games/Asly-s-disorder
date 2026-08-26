@@ -27,6 +27,12 @@ Unity
 
 Preproducción.
 
+## Repositorio
+
+Los binarios pesados (fuentes de arte, audio, vídeo, referencias) usan Git LFS. Guía: [Technical/Git_LFS.md](Technical/Git_LFS.md).
+
+Flujo de trabajo del equipo: [Production/Development_Workflow.md](Production/Development_Workflow.md).
+
 ## Carpetas principales
 
 | Carpeta          | Uso                                                               |
