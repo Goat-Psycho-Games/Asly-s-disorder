@@ -37,5 +37,6 @@
 - [Roadmap](10_Production_Roadmap.md)
 - [Plan de testing](11_Testing_Plan.md)
 - [Changelog](12_Changelog.md)
+- [Roles y responsabilidades](Production/ROLES_Y_RESPONSABILIDADES.md)
 - [Tareas pendientes](../Production/02_Task_Backlog.md)
 - [Registro de decisiones](../Production/05_Decision_Log.md)
