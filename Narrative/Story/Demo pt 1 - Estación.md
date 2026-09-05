@@ -110,13 +110,13 @@ con la segunda parte de la demo: ****el manicomio****.
 
 ## 4. NPCs y encuentros mínimos --- Estación
 
-  --------------------- ---------------------------------------------------------------------------------- --------------------------------------------------------------
-  Padres de Asly        Introducir el supuesto viaje y provocar el abandono de Asly                        Sí
-  Ed                    Introducir las decisiones de diálogo y establecer una relación variable con Asly   Sí
-  Niño «imaginario»     Establecer el conflicto inicial de Asly                                            Sí, aunque solo sea mencionado o mostrado en la introducción
-  Evento de la puerta   Confirmar la desaparición de los padres y generar inquietud                        Opcional
-  Tren                  Conectar la estación con la siguiente parte de la demo                             Sí
-  --------------------- ---------------------------------------------------------------------------------- --------------------------------------------------------------
+  --------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------
+  Padres de Asly       | Introducir el supuesto viaje y provocar el abandono de Asly                       | Sí
+  Ed                  |  Introducir las decisiones de diálogo y establecer una relación variable con Asly  | Sí
+  Niño «imaginario»   |  Establecer el conflicto inicial de Asly                                          |  Sí, aunque solo sea mencionado o mostrado en la introducción
+  Evento de la puerta |  Confirmar la desaparición de los padres y generar inquietud                       | Opcional
+  Tren                 | Conectar la estación con la siguiente parte de la demo                           |  Sí
+  --------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------
 
 ## 5. Criterios de cierre narrativo --- Estación
 
